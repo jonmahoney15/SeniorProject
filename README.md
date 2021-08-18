@@ -1,1 +1,1 @@
-# swEngProject
+# Senior Project for Undergrad
